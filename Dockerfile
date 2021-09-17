@@ -1,5 +1,4 @@
-FROM docker/compose:1.25.0
-
+FROM docker/compose:latest
 MAINTAINER Dmitriy Safronov <zimniy@cyberbrain.pw>
 ENV LANG C.UTF-8
 
