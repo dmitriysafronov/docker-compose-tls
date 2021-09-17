@@ -4,4 +4,4 @@ ENV LANG C.UTF-8
 
 ########################################################################################
 
-RUN apk add --no-cache ca-certificates
+RUN apk add --update --no-cache ca-certificates
